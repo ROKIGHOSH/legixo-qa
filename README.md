@@ -134,7 +134,7 @@ curl -X POST http://localhost:8000/ask \
 
 ## 5. Video walkthrough
 
-**[Add your 5–10 minute video link here before submitting]**
+**Video: https://drive.google.com/drive/folders/1rPsAZeZQN1cDyuvMJKJhpVpWgB9KvtCf?usp=sharing**
 
 The video covers: install → `pip install -r requirements.txt` → ingest → start the API → call `/ask` with a few good questions (with citations shown) → one question the docs cannot answer → a walk through `app/graph.py` / `docs/langgraph.md` pointing at the LangGraph nodes.
 
